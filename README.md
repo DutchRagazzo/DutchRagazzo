@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/DutchRagazzo">
-<img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DutchRagazzo&layout=compact&langs_count=7&theme=dracula&hide=html,css,javascript"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DutchRagazzo&layout=compact&langs_count=7&theme=dracula&hide=html,css"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DutchRagazzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>

@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/DutchRagazzo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchRagazzo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DutchRagazzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DutchRagazzo&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DutchRagazzo&layout=compact&theme=dracula"/>username=DutchRagazzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
   
